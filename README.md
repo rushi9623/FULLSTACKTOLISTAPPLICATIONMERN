@@ -65,4 +65,3 @@ A simple Todo List application built using the MERN stack (MongoDB, Express.js, 
 
 ## License
 
-This project is licensed under the MIT License.
